@@ -26,4 +26,5 @@
         <a href="mailto:dimaslimaferreira@gmail.com"><imgsrc="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     </div>
    <div align="center">
+        ![Snake animation]https://github.com/Hiago-Henrique-Tofanelli/Hiago-Henrique-Tofanelli/blob/output/github-contribution-grid-snake.svg)
  </div>
