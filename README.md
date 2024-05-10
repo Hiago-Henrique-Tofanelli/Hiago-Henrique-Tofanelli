@@ -6,7 +6,7 @@
 <br>
      <div>
        <h2 align="center">Studant of Sistems of an information</h2>
-        <p align="center">Currently in the 6th semester of "Sistema da Informação" at IFSP (<a
+        <p align="center">Currently in the 7th semester of "Sistema da Informação" at IFSP (<a
                 href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo
             </a>), Votuporanga - SP<br> 
     </div>
