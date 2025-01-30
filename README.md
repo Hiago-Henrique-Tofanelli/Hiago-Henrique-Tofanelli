@@ -6,7 +6,7 @@
 <div align="center">
   <h2>Bacharel em Sistemas de Informação</h2>
   <p>Bacharel no curso de "Sistemas de Informação" no IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo</a>), Votuporanga - SP</p>
-  <a href="README_en.md">English</a>
+  <a href="README_en.md">🇺🇸</a>
 </div>
 
 <div align="center">
