@@ -7,7 +7,7 @@
   <h2>Bachelor in Information Systems</h2>
   <p>Bachelor in the "Information Systems" course at IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Federal Institute of São Paulo</a>), Votuporanga - SP</p>
   <p>Clique na bandeira para visualizar a versão em português:</p>
-   <a href="README.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="60" height="60"/></a>
+  <a href="?path=root&file=README.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="60" height="60"/></a>
 </div>
 
 <div align="center">
