@@ -7,7 +7,7 @@
   <h2>Bacharel em Sistemas de Informação</h2>
   <p>Bacharel no curso de "Sistemas de Informação" no IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo</a>), Votuporanga - SP</p>
   <p>Click on the flag to view the English version:</p>
-  <a href="README_en.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="30" height="20"/></a>
+  <a href="README_en.md"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="60" height="60"/></a>
 </div>
 
 <div align="center">
