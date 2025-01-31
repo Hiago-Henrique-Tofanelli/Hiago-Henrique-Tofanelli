@@ -1,5 +1,5 @@
 <details open>
-  <summary>🇧🇷 Português</summary>
+  <summary>🇧🇷 Português <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="40" height="30"/></summary>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
@@ -9,7 +9,6 @@
   <div align="center">
     <h2>Bacharel em Sistemas de Informação</h2>
     <p>Bacharel no curso de "Sistemas de Informação" no IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo</a>), Votuporanga - SP</p>
-    <p>Clique na bandeira para visualizar a versão em inglês: <a href="#english-version"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></a></p>
   </div>
 
   <div align="center">
@@ -70,7 +69,7 @@
 </details>
 
 <details>
-  <summary>🇺🇸 English</summary>
+  <summary>🇺🇸 English <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></summary>
 
   <a name="english-version"></a>
 
@@ -82,7 +81,6 @@
   <div align="center">
     <h2>Bachelor in Information Systems</h2>
     <p>Bachelor in the "Information Systems" course at IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Federal Institute of São Paulo</a>), Votuporanga - SP</p>
-    <p>Click on the flag to view the Portuguese version: <a href="#portuguese-version"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="40" height="30"/></a></p>
   </div>
 
   <div align="center">
