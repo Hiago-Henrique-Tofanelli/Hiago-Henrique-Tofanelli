@@ -1,5 +1,5 @@
 <details open>
-  <summary>🇧🇷 Português <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="40" height="30"/></summary>
+  <summary><h1> BR Português</h1><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg" width="40" height="30"/></summary>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary>🇺🇸 English <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></summary>
+  <summary> <h1> US English </h1> <img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></summary>
 
   <a name="english-version"></a>
 
