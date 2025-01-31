@@ -1,16 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hiago;Bem-vindo!+:%29)](https://git.io/typing-svg)
-
-<br>
-<div align="center">
-  <h2>Bacharel em Sistemas de Informação</h2>
-  <p>Bacharel no curso de "Sistemas de Informação" no IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo</a>), Votuporanga - SP</p>
-  <p>Click on the flag to view the English version: <a href="#english-version"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></a></p>
-</div>
-
 <details open>
-  <summary>Português</summary>
+  <summary>🇧🇷 Português</summary>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Hiago;Bem-vindo!+:%29)](https://git.io/typing-svg)
+
+  <br>
+  <div align="center">
+    <h2>Bacharel em Sistemas de Informação</h2>
+    <p>Bacharel no curso de "Sistemas de Informação" no IFSP (<a href="https://vtp.ifsp.edu.br/"><i>Instituto Federal de São Paulo</a>), Votuporanga - SP</p>
+    <p>Clique na bandeira para visualizar a versão em inglês: <a href="#english-version"><img src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg" width="40" height="30"/></a></p>
+  </div>
 
   <div align="center">
     <a href="https://github.com/Hiago-Henrique-Tofanelli">
@@ -70,7 +70,7 @@
 </details>
 
 <details>
-  <summary>English</summary>
+  <summary>🇺🇸 English</summary>
 
   <a name="english-version"></a>
 
